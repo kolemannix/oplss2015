@@ -1,0 +1,24 @@
+	<- TypeTheory ->
+      /	   	      \
+
+Proof Theory           Category Theory 
+
+WTT ~ Morphisms
+WTT ~ Proofs
+Category Theory < Cat Logic > Proof Theory
+
+Keep an eye on
+1. Abstraction
+   "behavioral characterization"
+   implementation =/= the abstraction
+2. Strictures, not Affordances
+   "less is more", (non)-conservative extension
+   * expressive power stems from the restrictions the language imposes
+   Constructivity ------> Axiomatic Freedom
+3. Proof Relevance
+   Proofs are mathematical objects
+   Not just metatheory, part of the theory
+
+Identity
+	"No entity without identity"
+	What is equality?
